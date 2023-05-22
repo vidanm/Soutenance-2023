@@ -71,3 +71,24 @@ layout: section
 
 # La Sodis
 ## et sa place dans le groupe Madrigall
+
+---
+layout: image-right
+image: https://uploads.lebonbon.fr/source/2019/october/f7vc9y7iyv_2_1200.jpg
+---
+
+<div class="p-5px">
+
+# Groupe Madrigall
+
+<br>
+
+### Distribution 
+Sodis | Union Distribution...
+
+### Diffusion
+Gallimard | Sofédis | Flammarion...
+
+### Edition
+Éditions Gallimard | Flammarion | Casterman...
+</div>
