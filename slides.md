@@ -40,7 +40,6 @@ image: 'https://www.numerama.com/wp-content/uploads/2022/09/livres.jpg'
 
 ---
 layout: quote
-image: 'https://www.numerama.com/wp-content/uploads/2022/09/livres.jpg'
 ---
 
 # "La filière économique du livre peut être considérée comme la première des industries culturelles. Comme les autres industries culturelles, il s’agit d’une activité de prototypes qui connaît une grande incertitude devant la réception de ses produits par le public de lecteurs."
@@ -48,5 +47,27 @@ image: 'https://www.numerama.com/wp-content/uploads/2022/09/livres.jpg'
 culture.gouv.fr
 
 ---
+layout: 
 ---
-# 
+
+# Acteurs du marché du livre
+
+<img src="https://i.ibb.co/TbZZg4X/chaine-du-livre.png" />
+
+---
+layout: quote
+image: 'https://www.numerama.com/wp-content/uploads/2022/09/livres.jpg'
+---
+
+# Le prix unique du livre
+<br>
+
+## "...Fondé sur le refus de considérer le livre comme un produit marchand banalisé, ne répondant qu’aux seules exigences de rentabilité immédiate. "
+Syndicat national de l'édition
+
+---
+layout: section
+---
+
+# La Sodis
+## et sa place dans le groupe Madrigall
